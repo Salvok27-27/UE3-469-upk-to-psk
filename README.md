@@ -1,4 +1,4 @@
-# upk2psk — UE3 SkeletalMesh Extractor
+# UE3-469-upk-to-psk — UE3 SkeletalMesh Extractor
 
 A GUI tool to extract **SkeletalMesh** assets from early **Unreal Engine 3 prototype (2004, engine version 180)** UPK packages and export them to **PSK (ActorX)** format, compatible with Unreal Engine 3 importers and Blender (via PSK/PSA importer plugin).
 
