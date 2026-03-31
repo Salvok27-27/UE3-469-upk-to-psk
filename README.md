@@ -74,4 +74,4 @@ You are free to use, modify, and redistribute this tool, but:
 
 ## Author
 
-**Salvo k27**
+**Salvo k27** + **Claude AI**
